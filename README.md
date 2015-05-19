@@ -87,7 +87,7 @@ The following steps have been followed in order to summary the data:
 
 1. open a command line prompt
 
-2. goto a working directory <WD>
+2. goto a preferred working directory
 
 3. clone the repository with the following command:
 
@@ -95,7 +95,7 @@ The following steps have been followed in order to summary the data:
 git clone https://github.com/ralfano/GettingandCleaningDataCourseProject.git
 ```
 
-4. change your working directory to <WD>\GettingandCleaningDataCourseProject
+4. change your working directory to .\GettingandCleaningDataCourseProject
 
 5. run the run_analysis.R script with the following command:
 
