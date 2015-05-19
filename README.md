@@ -1,5 +1,3 @@
-# Introduction
-
 ## Content
 
 * Introduction
@@ -15,7 +13,6 @@ Alfano's "Getting and Cleaning Data" project submission
 ### Variables in the data set not contained in the tidy data
 
 For each record it is provided:
-======================================
 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 - Triaxial Angular velocity from the gyroscope. 
@@ -88,17 +85,19 @@ The following steps have been followed in order to summary the data:
 
 ## Instruction list
 
-1. goto a working directory <WD>
+1. open a command line prompt
 
-2. clone the repository with the following command:
+2. goto a working directory <WD>
+
+3. clone the repository with the following command:
 
 ```
 git clone https://github.com/ralfano/GettingandCleaningDataCourseProject.git
 ```
 
-3. change your working directory to <WD>\GettingandCleaningDataCourseProject
+4. change your working directory to <WD>\GettingandCleaningDataCourseProject
 
-4. run the run_analysis.R script with the following command:
+5. run the run_analysis.R script with the following command:
 
 ```
 Rscript run_analysis.R
