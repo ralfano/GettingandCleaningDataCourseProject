@@ -1,7 +1,5 @@
 library(data.table)
 
-setwd(".\\my\\Coursera - Data_Science\\3. Data Cleaning\\week2\\getdata-projectfiles-UCI HAR Dataset\\UCI HAR Dataset")
-
 ##Read the activities label:
 df_activity_labels <- read.table("activity_labels.txt")
 ##Rename the activity labels table columns:
