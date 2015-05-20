@@ -85,21 +85,21 @@ The following steps have been followed in order to summary the data:
 
 ## Instruction list
 
-1. Open a command line prompt
+* Open a command line prompt
 
-2. Goto a preferred working directory
+* Goto a preferred working directory
 
-3. Clone the repository with the following command:
+* Clone the repository with the following command:
 ```
 git clone https://github.com/ralfano/GettingandCleaningDataCourseProject.git
 ```
 
-4. Change your working directory to .\GettingandCleaningDataCourseProject
+* Change your working directory to .\GettingandCleaningDataCourseProject
 
-5. Run the run_analysis.R script with the following command:
+* Run the run_analysis.R script with the following command:
 
 ```
 Rscript run_analysis.R
 ```
 
-6. When the script terminates a file named "tidydataset.txt" with the final result must appear in the current working directory
+* When the script terminates a file named "tidydataset.txt" with the final result must appear in the current working directory
