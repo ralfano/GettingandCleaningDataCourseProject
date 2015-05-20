@@ -90,7 +90,6 @@ The following steps have been followed in order to summary the data:
 2. Goto a preferred working directory
 
 3. Clone the repository with the following command:
-
 ```
 git clone https://github.com/ralfano/GettingandCleaningDataCourseProject.git
 ```
